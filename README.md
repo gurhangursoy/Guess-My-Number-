@@ -1,5 +1,5 @@
 # Guess My Number !
-> It is a mini challenge game that you can play with your friends.
+> It is a mini game that you can play with your friends.
 
 ## Table of contents
 * [General info](#general-info)
